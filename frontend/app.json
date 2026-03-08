@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "AI Smart Closet",
+    "slug": "ai-smart-closet",
+    "version": "1.0.0",
+    "scheme": "ai-smart-closet",
+    "plugins": [
+      "expo-router",
+      "expo-image-picker"
+    ]
+  }
+}
